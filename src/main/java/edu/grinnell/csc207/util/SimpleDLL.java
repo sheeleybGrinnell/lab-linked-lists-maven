@@ -11,8 +11,8 @@ import java.util.NoSuchElementException;
  * These do *not* (yet) support the Fail Fast policy.
  *
  * @author Samuel A. Rebelsky
- * @author Your Name Here
- * @author Your Name Here
+ * @author Ben Sheeley
+ * @author Alex Pollock
  *
  * @param <T>
  *   The type of elements stored in the list.
